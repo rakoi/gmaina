@@ -105,7 +105,7 @@
                         <div class="carousel-caption">
                             <div class="p-3" style="max-width: 900px;">
                                 <h4 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Data Analysis solution</h4>
-                                <h1 class="display-1 text-capitalize text-white mb-4">Spider Maina</h1>
+                                <h1 class="display-1 text-capitalize text-white mb-4"> Maina Data</h1>
                                 <p class="mb-5 fs-5">
                                    In God we trust. All others must bring data
                                 </p>
